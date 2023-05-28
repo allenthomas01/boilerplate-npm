@@ -1,6 +1,7 @@
 {
-	"author":"allen thomas",
+	"author": "allen thomas",
 	"name": "fcc-learn-npm-package-json",
+  "description":"an awesome package",
 	"dependencies": {
 		"express": "^4.18.2"
 	},
